@@ -1,3 +1,64 @@
 <resources>
     <string name="app_name">Celular App</string>
+    <string name="Numero">Numero</string>
+    <string name="marca">Marca</string>
+    <string name="txtRam">Ram</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="titulo">titulo</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="Ram">Ram</string>
+    <string name="reporte1">samsung celular con ram (2 - 4)</string>
+    <string name="reporte2">iPhone negros</string>
+    <string name="reporte3"> promedio de la cantidad de Nokias</string>
+    <string name="crear_celulares">Crear</string>
+    <string name="listar_celulares">Listar</string>
+    <string-array name="opciones">
+        <item>@string/crear_celulares</item>
+        <item>@string/listar_celulares</item>
+        <item>@string/reporte1</item>
+        <item>@string/reporte2</item>
+        <item>@string/reporte3</item>
+    </string-array>
+    <string name="negro">Negro</string>
+    <string name="Plateado">Plateado</string>
+    <string name="blanco">Blanco</string>
+    <string name="Rosado">Rosado</string>
+    <string-array name="colores">
+        <item>@string/negro</item>
+        <item>@string/Rosado</item>
+        <item>@string/blanco</item>
+        <item>@string/Plateado</item>
+    </string-array>
+    <string name="samsung">Samsung</string>
+    <string name="nokia">Nokia</string>
+    <string name="apple">iPhone</string>
+    <string name="huawei">Huawei</string>
+    <string-array name="marcas">
+        <item>@string/samsung</item>
+        <item>@string/nokia</item>
+        <item>@string/apple</item>
+        <item>@string/huawei</item>
+    </string-array>
+
+    <string-array name="so">
+        <item>@string/Android</item>
+        <item>@string/Ios</item>
+    </string-array>
+
+    <string name="ram1">1GB</string>
+    <string name="ram2">2GB</string>
+    <string name="ram4">4GB</string>
+    <string-array name="ram">
+        <item>@string/ram1</item>
+        <item>@string/ram2</item>
+        <item>@string/ram4</item>
+    </string-array>
+
+    <string name="mensaje_guardado">Celular Guardado Exitosamente!</string>
+    <string name="Android">Android</string>
+    <string name="Ios">ios</string>
+    <string name="Sistema">Sistema</string>
+    <string name="title_activity_listar">ListarActivity</string>
 </resources>
